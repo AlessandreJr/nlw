@@ -107,7 +107,7 @@ section ul li:hover {
     border: 1px solid #443e54;
 }
 
-/* animation */
+/* animations */
 
 header div {
     animation: fromTop .7s .4s backwards;
@@ -118,7 +118,7 @@ main section {
 }
 
 main section:nth-child(1) {
-    animation-delay: 0s;
+    animation-delay: .1s;
 }
 
 main section:nth-child(2) {
